@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b08a4f92-0646-465f-b2d9-7ac3d9934048" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day11_if_statements/Drive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day22_arrays/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day22_arrays/ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day22_arrays/SplitExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day22_arrays/SplitExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AddElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AddElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AverageOfEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AverageOfEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AverageOfEachTraditional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/AverageOfEachTraditional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/BinarySearchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/BinarySearchExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/CopyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/CopyExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/MultiArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/MultiArrayExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day23_multiDimentional_arrays/Recap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_methods/GetCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_methods/GetCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_methods/LastCharacters2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_methods/LastCharacters2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/CountNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/CountNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/MethodWithOthers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/MethodWithOthers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/NumberWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/NumberWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/UsingStringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_Programming_B1/day24_office_hours/UsingStringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My_Practice_Project/out/production/Practice_Programming/day23_tasks/BiggestDiagonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../My_Practice_Project/out/production/Practice_Programming/day23_tasks/BiggestDiagonal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My_Practice_Project/src/day23_tasks/BiggestDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../My_Practice_Project/src/day23_tasks/BiggestDiagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../group_study_3" beforeDir="false" afterPath="$PROJECT_DIR$/../../group_study_3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Luudhj1ml17wEDUXP9ogHF9gN1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/edurs/IdeaProjects/Java_Programming_B1&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b08a4f92-0646-465f-b2d9-7ac3d9934048" name="Changes" comment="" />
+      <created>1676733378482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676733378482</updated>
+    </task>
+    <servers />
+  </component>
+</project>
